@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="com.example.controlescolar.Entity">
+		<class>com.example.controlescolar.Entity.Opccarr</class>
+		<class>com.example.controlescolar.Entity.Rol</class>
+		<class>com.example.controlescolar.Entity.Sesion</class>
+		<class>com.example.controlescolar.Entity.Spbper</class>
+		<class>com.example.controlescolar.Entity.Spraddr</class>
+		<class>com.example.controlescolar.Entity.Spriden</class>
+		<class>com.example.controlescolar.Entity.Sprmail</class>
+		<class>com.example.controlescolar.Entity.Sprtele</class>
+		<class>com.example.controlescolar.Entity.Stvcarr</class>
+		<class>com.example.controlescolar.Entity.Stvmail</class>
+		<class>com.example.controlescolar.Entity.Stvprep</class>
+		<class>com.example.controlescolar.Entity.Stvtele</class>
+		<class>com.example.controlescolar.Entity.Stvterm</class>
+		<class>com.example.controlescolar.Entity.Stvturn</class>
+		<class>com.example.controlescolar.Entity.Stvtype</class>
+		<class>com.example.controlescolar.Entity.Usuario</class></persistence-unit>
+</persistence>
